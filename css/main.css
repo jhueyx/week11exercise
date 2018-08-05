@@ -1,0 +1,22 @@
+/*7 .In CSS: give your image a transition property with a value of "0.3s ease".*/
+
+img {
+	transition: 0.3s ease; 
+}
+
+/*8. In CSS: create a class selector for a class called "fade" with a property of "opacity: 0".
+*/
+
+.fade{
+	opacity: 0;
+}
+
+/*14 */
+#cover{
+	background-color: red;
+ 	top: 0;
+ 	left: 0;
+  	height: 100vh;
+  	width: 100vw;
+  	position: fixed
+}
